@@ -1,2 +1,2 @@
-# fmml_assignments-
-IIIT Hyderabad fmml assignments 
+# FMMl_Assignments
+IIIT Hyderabad FMML Assignments 
